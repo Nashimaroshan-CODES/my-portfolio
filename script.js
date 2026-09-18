@@ -458,9 +458,11 @@ const projectData = {
 
     },
 
-    crm: {
+    CRM : {
 
         icon: "💎",
+
+        type: "Salesforce • CRM",
 
         title: "CRM Jewel Management System",
 
@@ -472,7 +474,9 @@ const projectData = {
             "Reports & Dashboards",
             "Data Management"
         ],
+
         details: [
+            
             "Developed a CRM application for managing customer and sales information. Organized records and created reports and dashboards for business analysis.",
             
             "Strengthened practical knowledge of Salesforce CRM, customer data management, reporting, dashboards, and organized business data handling."
