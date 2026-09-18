@@ -458,7 +458,27 @@ const projectData = {
 
     },
 
+    crm: {
 
+        icon: "💎",
+
+        title: "CRM Jewel Management System",
+
+        description:
+            "Developed a Salesforce-based CRM application to organize and manage customer information and sales records. Implemented structured data management along with reports and dashboards to support business analysis and improve customer relationship management.",
+
+        tags: [
+            "Salesforce CRM",
+            "Reports & Dashboards",
+            "Data Management"
+        ],
+        details: [
+            "Developed a CRM application for managing customer and sales information. Organized records and created reports and dashboards for business analysis.",
+            
+            "Strengthened practical knowledge of Salesforce CRM, customer data management, reporting, dashboards, and organized business data handling."
+        ]
+
+},
     elite: {
 
         icon: "🔥",
